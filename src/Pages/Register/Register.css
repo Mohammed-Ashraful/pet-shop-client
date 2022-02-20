@@ -1,0 +1,35 @@
+.contact-style{
+    background-image: url(https://www.cdc.gov/healthypets/images/covid/dog-and-cat.jpg?_=46111);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 656px;
+    margin: 0px;
+    border: 3px solid rgba(165, 42, 42, 0.432);
+    border-radius: 5% 40% 5% 40%;
+    
+}
+.input{
+    width: 400px;
+    padding: 10px;
+    background-color: rgba(243, 170, 170, 0.411);
+    margin-left: 40%;
+    border: 3px solid brown;
+    border-radius: 20px;
+    margin-top: 65px;
+    
+}
+.input input{
+    width: 80%;
+    padding: 5px;
+    margin-top: -5px;
+    border-radius: 5px;
+    border: 2px solid rgba(128, 128, 128, 0.486);
+}
+.input button{
+    background-color: rgba(250, 89, 89, 0.582);
+    color: white;
+    font-weight: bold;
+    padding: 5px;
+    border: 2px solid brown;
+    border-radius: 5px;
+}

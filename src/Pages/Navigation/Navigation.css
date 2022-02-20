@@ -1,0 +1,21 @@
+.nav-style{
+    display: flex;
+    margin-left: 40%;
+    justify-content: space-evenly;
+    font-size: larger;
+    font-weight: bold;
+    color: black;
+    padding: 8px;
+}
+.nav-style :hover{
+    background-color: rgba(165, 42, 42, 0.493);
+    color: black;
+    border-radius: 10px;
+    
+}
+.logo img{
+    
+    width: 50px;
+    height: 50px;
+    margin-left: -2000%;
+}
